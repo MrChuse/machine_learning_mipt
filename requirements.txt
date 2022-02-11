@@ -1,0 +1,7 @@
+notebook
+numpy
+tensorflow
+gym
+scipy
+matplotlib
+jupyternotify
