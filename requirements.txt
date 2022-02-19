@@ -1,5 +1,6 @@
 notebook
 numpy
+pandas
 tensorflow
 gym
 scipy
