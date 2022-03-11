@@ -6,3 +6,5 @@ gym
 scipy
 matplotlib
 jupyternotify
+seaborn
+sklearn
